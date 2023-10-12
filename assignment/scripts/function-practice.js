@@ -68,7 +68,7 @@ function isFirstLetter(letter, string) {
 
 
 // 9. Function to return the sum of all numbers in an array
-function sumAll() {
+function sumAll(array) {
   let sum = 0;
   // TODO: loop to add items
 
